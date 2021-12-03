@@ -1,6 +1,6 @@
 /*
 I tried 3 different solutions just to see which one is more performant
-since I'm new to the Go language :P
+since I'm new to Go language :P
 */
 package main
 
